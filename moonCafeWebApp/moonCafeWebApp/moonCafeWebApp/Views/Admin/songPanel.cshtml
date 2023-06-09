@@ -1,0 +1,30 @@
+﻿@model List<CmSong>
+@{
+    ViewData["Title"] = "songPanel";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    var songs = Model;
+}
+
+<table class="table table-bordered mt-3">
+    <tr>
+        <th>Masa No</th>
+        <th>İstek Şarkı</th>
+        <th>İşlem</th>
+    </tr>
+    @{
+        foreach (var s in songs)
+        {
+            <tr>
+                <td>@s.TableNo</td>
+                <td>@s.SongName</td>
+                <td>
+                    <form method="post" asp-action="SarkiSil">
+                        <input type="hidden" name="songId" value="@s.Id">
+                        <button type="submit" class="btn btn-danger">Sil</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    }
+</table>
+

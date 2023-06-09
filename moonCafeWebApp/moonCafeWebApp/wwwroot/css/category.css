@@ -1,0 +1,19 @@
+﻿h2 {
+    position: relative;
+    left: 38%;
+    
+}
+table td{
+    width:200px;
+    height:200px;
+    text-align:center;
+}
+table td img{
+    width:150px;
+    height:150px;
+}
+.btn{
+    width:200px;
+    margin:10px 10px 10px 5px;
+   
+}

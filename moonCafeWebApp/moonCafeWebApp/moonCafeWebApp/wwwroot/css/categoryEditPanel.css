@@ -1,0 +1,45 @@
+﻿.baslik {
+    text-align:center;
+    margin-top:20px;
+}
+.kapsayıcı {
+    border: 5px solid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-40%, -50%);
+    padding: 10px;
+}
+.satir{
+    display:inline-block;
+}
+.left{
+    width:40%;
+    display:inline-block;
+}
+.left img{
+    width:90%;
+}
+
+.right{
+    width:50%;
+    display:inline-block;
+}
+.right label, input{
+    margin:2px;
+}
+.right-under{
+    text-align:end;
+}
+.update {
+    border: none;
+    background-color: #198754;
+    border-radius:5px;
+    width:100px;
+    height:30px;
+}
+    .update:hover {
+        background-color: white;
+        border: 1px solid #198754;
+        transition:0.7s;
+    }

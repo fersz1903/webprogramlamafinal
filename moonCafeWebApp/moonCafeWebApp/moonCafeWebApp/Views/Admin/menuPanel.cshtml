@@ -1,0 +1,37 @@
+﻿@model List<CmMenu>
+@{
+    ViewData["Title"] = "menuPanel";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    var menu = @Model;
+}
+
+<table class="table table-bordered mt-3">
+    <tr>
+        <th>Menü Adı</th>
+        <th>Fiyat</th>
+        <th>Fotoğraf</th>
+        <th>İşlem</th>
+    </tr>
+    @{
+        foreach (var m in menu)
+        {
+            <tr>
+                <td>@m.Name</td>
+                <td>@m.Price</td>
+                <td><img src="@m.ImagePath" width="200" height="200" alt="img" class="img-thumbnail"></td>
+                <td>
+                    <form method="post" asp-controller="Admin" asp-action="menuEditPanel">
+                        <input type="hidden" name="menuId" value="@m.Id">
+                        <button type="submit" class="btn btn-danger">Düzenle</button>
+                    </form>
+                    <br>
+                    <form method="post" asp-controller="Admin" asp-action="menuSil">
+                        <input type="hidden" name="menuId" value="@m.Id">
+                        <button type="submit" class="btn btn-danger">Sil</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    }
+
+</table>

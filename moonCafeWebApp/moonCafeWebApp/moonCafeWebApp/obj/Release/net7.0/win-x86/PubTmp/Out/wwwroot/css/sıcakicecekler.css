@@ -1,0 +1,94 @@
+.sideNav{
+    height: 100vh;
+    width: 0px;
+    position: fixed;
+    left: 0;
+    margin-top:-24px ;
+    padding-top:60px;
+    background-color: #212A3E;
+    z-index: 999;
+    transition: 0.5s;
+    overflow-x:hidden ;
+}
+    .sideNav a {
+        display: block;
+        text-decoration: none;
+        font-size: 20px;
+        color: #9BA4B5;
+        padding: 8px 8px 8px 35px;
+        transition: 0.3s;
+    }
+
+    .sideNav button {
+        display: block;
+        width: 100%;
+        background-color: #212A3E;
+        font-size: 20px;
+        color: #9BA4B5;
+        padding: 8px 8px 8px 35px;
+        border: none;
+        transition: 0.3s;
+        text-align: left;
+    }
+.sideNav a:hover{
+    color: black;
+}
+.sideNav .closeBtn{
+    position: absolute; 
+    top: 0;
+    right: 20px;
+    font-size: 36px;
+}
+.open {
+    font-size: 40px;
+    cursor: pointer;
+    margin-left: 15px;
+    position: fixed;
+    z-index: 777;
+    border: 2px solid #9BA4B5;
+    border-radius: 5px;
+    width: 60px;
+}
+.open i {
+        margin: 10px;
+        color: #212A3E;
+}
+    .open i:hover {
+        color: #9BA4B5;
+        transition: 0.5s;
+    }
+    .open:hover {
+        border:2px solid #212a3e;
+        transition:0.5s;
+    }
+
+.card-img-top{
+    width: 100%;
+    height: 30vh;
+    object-fit: cover;
+}
+.fiyat{
+    border: 1px solid black;
+    text-align:center;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: x-large;
+    text-align:center;
+
+}
+.card-body{
+    height:auto;
+}
+.card-body label{
+    text-align:center;
+    display:flex;
+    top:center;
+}
+.card-title{
+    text-align:center;
+}
+
+main{
+    height:80%;
+}
+

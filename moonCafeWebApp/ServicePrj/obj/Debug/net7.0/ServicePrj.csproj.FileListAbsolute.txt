@@ -1,0 +1,14 @@
+C:\Users\Furkan\source\repos\moonCafeWebApp\ServicePrj\bin\Debug\net7.0\ServicePrj.deps.json
+C:\Users\Furkan\source\repos\moonCafeWebApp\ServicePrj\bin\Debug\net7.0\ServicePrj.dll
+C:\Users\Furkan\source\repos\moonCafeWebApp\ServicePrj\bin\Debug\net7.0\ServicePrj.pdb
+C:\Users\Furkan\source\repos\moonCafeWebApp\ServicePrj\obj\Debug\net7.0\ServicePrj.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\moonCafeWebApp\ServicePrj\obj\Debug\net7.0\ServicePrj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\moonCafeWebApp\ServicePrj\obj\Debug\net7.0\ServicePrj.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\moonCafeWebApp\ServicePrj\obj\Debug\net7.0\ServicePrj.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\moonCafeWebApp\ServicePrj\obj\Debug\net7.0\ServicePrj.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\moonCafeWebApp\ServicePrj\obj\Debug\net7.0\ServicePrj.dll
+C:\Users\Furkan\source\repos\moonCafeWebApp\ServicePrj\obj\Debug\net7.0\refint\ServicePrj.dll
+C:\Users\Furkan\source\repos\moonCafeWebApp\ServicePrj\obj\Debug\net7.0\ServicePrj.pdb
+C:\Users\Furkan\source\repos\moonCafeWebApp\ServicePrj\obj\Debug\net7.0\ref\ServicePrj.dll
+C:\Users\Furkan\source\repos\moonCafeWebApp\ServicePrj\bin\Debug\net7.0\ServicePrj.runtimeconfig.json
+C:\Users\Furkan\source\repos\moonCafeWebApp\ServicePrj\obj\Debug\net7.0\ServicePrj.genruntimeconfig.cache

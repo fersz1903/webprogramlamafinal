@@ -1,0 +1,23 @@
+.order{
+    height:80vh;
+    margin-top:0px;
+}
+.table{
+    margin-bottom: 10vh !important;
+}
+ h2{
+    text-align: center;
+}
+.gonder{
+
+   text-align: right;
+}
+.istekParca{
+    width: auto;
+    height: 35px;
+ 
+}
+label{
+    font-style: italic;
+    font-weight: bold;
+}

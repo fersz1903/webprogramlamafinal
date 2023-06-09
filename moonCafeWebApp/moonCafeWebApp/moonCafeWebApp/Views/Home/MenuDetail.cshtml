@@ -1,0 +1,74 @@
+﻿@model moonCafeWebApp.ViewModels.MenuDetailViewModel
+@{
+
+    var menus = Model.Menus;
+    var categories = Model.Categories;
+    ViewData["Title"] = "Moon Cafe";
+
+}
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+          integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="~/css/ortak.css" />
+    <link rel="stylesheet" href="~/css/sıcakicecekler.css" />
+</head>
+
+<body>
+    <main>
+
+        <div class="icerik">
+            <div class=" sideNav" id="sideNavBar">
+                <a href="Javascript:void(0)" class="closeBtn" onclick="closeNav()">&times;</a>
+                @{
+                    foreach (var c in categories)
+                    {
+                        <form method="post" asp-controller="Home" asp-action="MenuDetail">
+                            <input type="hidden" name="categoryId" value="@c.Id">
+                            <button type="submit"> @c.Name </button>
+                        </form>
+                    }
+                }
+            </div>
+            <span class="open" onclick="openNav()"><i class="fa-solid fa-bars"></i></span>
+        </div>
+
+        <div class="container my-4">
+            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4">
+
+                @{
+                    foreach(var menu in menus)
+                    {
+                        <div>
+                            <div class="card mb-3 shadow">
+                                <img src="@menu.ImagePath" class="card-img-top" alt="">
+                                <div class="card-body row">
+                                    <h3 class="card-title col-8">@menu.Name</h3>
+                                    <label class="col-4 fiyat">@menu.Price TL </label>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+
+                
+
+
+            </div>
+        </div>
+
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
+            crossorigin="anonymous"></script>
+    <script src="~/js/javascript.js"></script>
+
+</body>

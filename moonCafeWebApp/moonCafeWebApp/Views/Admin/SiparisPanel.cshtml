@@ -1,0 +1,33 @@
+﻿@model List<CmOrder>
+@{
+    ViewData["Title"] = "Siparisler";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    var orders = Model;
+}
+
+
+<table class="table table-bordered mt-3">
+    <tr>
+        <th>Masa No</th>
+        <th>Sipariş Adı</th>
+        <th>İşlem</th>
+    </tr>
+    @{
+        foreach (var s in orders)
+        {
+            <tr>
+                <td>@s.TableNo</td>
+                <td>@s.Name</td>
+                <td>
+                    <form method="post" asp-controller="Admin" asp-action="siparisSil">
+
+                        <input type="hidden" name="orderId" value="@s.Id">
+                        <button type="submit" class="btn btn-danger">Sil</button>
+
+                    </form>
+                </td>
+            </tr>
+        }
+    }
+</table>
+

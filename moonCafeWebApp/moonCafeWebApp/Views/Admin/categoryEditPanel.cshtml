@@ -1,0 +1,30 @@
+﻿@model CmCategory
+@{
+    ViewData["Title"] = "categoryEditPanel";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    var category = Model;
+}
+
+<link rel="stylesheet" href="~/css/categoryEditPanel.css" />
+<h1 class="baslik">Category Edit Panel</h1>
+
+
+<form method="post" asp-controller="Admin" asp-action="kategoriDuzenle" enctype="multipart/form-data">
+    <div class="kapsayıcı">
+        <div class="satir">
+            <div class="left">
+                <img src="@category.ImagePath" width="200" height="200" alt="img">
+            </div>
+            <div class="right">
+                <label>Kategori Adı:</label>
+                <input type="text" name="Name" id="text" value="@category.Name">
+                <input type="hidden" name="categoryId" id="hidden" value="@category.Id">
+                <input class="dosyaName" type="file" value="file" name="file">
+                <div class="right-under"><button class="update" type="submit"> Güncelle </button></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</form>

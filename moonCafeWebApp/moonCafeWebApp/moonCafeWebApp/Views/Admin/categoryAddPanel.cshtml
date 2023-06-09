@@ -1,0 +1,33 @@
+﻿@model CmCategory
+@{
+    ViewData["Title"] = "categoryAddPanel";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    var category = Model;
+}
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous" />
+    <link rel="stylesheet" href="~/css/categoryAdd.css" />
+</head>
+
+<h2>Category Add Panel</h2>
+
+
+<form method="post" asp-controller="Admin" asp-action="kategoriEkle" enctype="multipart/form-data">
+       
+    <div class="center">
+            <div class="kapsam">
+             <label>Kategori Adı</label>
+            <input class="border-1" type="text" name="Name" id="text" required>
+        
+
+            </div>
+            <div class="kapsam">
+            <input type="file" value="file" name="file" required></input>
+            <button type="submit"> Ekle </button>
+
+            </div>        
+            
+    </div>
+   
+    </form>

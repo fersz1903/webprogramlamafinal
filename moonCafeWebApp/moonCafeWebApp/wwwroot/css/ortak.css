@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&family=Ysabeau:wght@1&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #F1F6F9;
+  font-family: sans-serif;
+  overflow-x: hidden;
+  height:100vh;
+}
+
+
+.logo {
+  display: inline-block;
+}
+.navbar {
+  background-color: #9BA4B5;
+  position: sticky;
+  top: 0;
+  z-index: 5;
+}
+.logo {
+  text-decoration: none;
+  font-family: 'Lobster', cursive;
+  color: #212A3E;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgba(27, 9, 128, 0.801);
+
+}
+
+.menu-bar {
+  width: calc(100% - 168px);
+  display: inline-block;
+  justify-content: center !important;
+  text-align: center;
+}
+
+.menu-bar ul {
+  display: inline-flex;
+  list-style: none;
+}
+.menu-bar ul li {
+  width: 15vh;
+  margin: 1vh;
+  margin-top: 2vh;
+  padding: 1vh;
+}
+.menu-bar ul li a {
+  text-decoration: none;
+  color: white;
+}
+.active,
+.menu-bar ul li:hover {
+  background-color: #212A3E;
+  border-radius: 10px;
+  transition: 0.4s;
+}
+.overflow{
+  overflow: hidden;
+}
+.icerik ul{
+  list-style: none;
+  border: 1px solid #9BA4B5;
+  margin: 10px;
+}
+.icerik ul li{
+  margin: 10px;
+  padding: 10px;
+}
+.icerik ul li a{
+  text-decoration: none;
+  color: #212A3E;
+}
+.footer {
+    position: static;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 60px;
+    padding: 15px;
+    background: #9BA4B5;
+    color: khaki;
+    margin:auto;
+}
+.footer .container{
+    text-align:center;
+}

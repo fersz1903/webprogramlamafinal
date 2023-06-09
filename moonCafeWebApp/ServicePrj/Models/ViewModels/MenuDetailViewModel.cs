@@ -1,0 +1,10 @@
+﻿using ServicePrj.Models;
+
+namespace ServicePrj.ViewModels
+{
+    public class MenuDetailViewModel
+    {
+        public List<CmCategory> Categories { get; set; }
+        public List<CmMenu> Menus { get; set; }
+    }
+}

@@ -1,0 +1,44 @@
+﻿@model List<CmCategory>
+@{
+    ViewData["Title"] = "categoryPanel";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    var categories = @Model;
+}
+<link rel="stylesheet" href="~/css/category.css" />
+
+<h2>Category Panel</h2>
+
+<table class="table table-bordered mt-3">
+    <tr>
+        <th>Kategori Adı</th>
+        <th>Fotoğraf</th>
+        <th>İşlem</th>
+    </tr>
+    @{
+        foreach (var c in categories)
+        {
+
+            <tr>
+                <td>@c.Name</td>
+                <td><img src="@c.ImagePath" width="200" height="200" alt="img" class="img-thumbnail"></td>
+                <td class="buttons">
+                    <form method="post" asp-controller="Admin" asp-action="categoryEditPanel">
+                        <input type="hidden" name="categoryId" value="@c.Id">
+                        <button type="submit" class="btn btn-success ">Güncelle</button>
+                    </form>
+
+                    <form method="post" asp-controller="Admin" asp-action="categoriSil">
+                        <input type="hidden" name="categoryId" value="@c.Id">
+                        <button type="submit" class="btn btn-danger ">Sil</button>
+                    </form>
+                    <form method="post" asp-controller="Admin" asp-action="menuPanel">
+                        <input type="hidden" name="categoryId" value="@c.Id">
+                        <button type="submit" class="btn btn-primary ">Menüleri Göster</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    }
+
+
+</table>

@@ -1,0 +1,70 @@
+﻿@model moonCafeWebApp.ViewModels.MenuViewModel
+@{
+    ViewData["Title"] = "menuEditPanel";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    var menu = Model.Menu;
+    var categories = Model.Categories;
+}
+<link rel="stylesheet" href="~/css/menuEditPanel.css" />
+<h1>Menu Edit Panel</h1>
+<form method="post" asp-controller="Admin" asp-action="menuDuzenle" enctype="multipart/form-data">
+    <div class="kapsayıcı">
+<div class="satir">
+        <div class="left">
+            <img src="@menu.ImagePath" width="200" height="200" alt="img" class="img-thumbnail">
+            <input type="file" value="file" name="file">
+        </div>
+        <div class="right">
+            <div class="icerik">
+                <label> menu id: @menu.Id</label>
+            <select name="categoryId" id="categories">
+                @{
+                    foreach (var c in categories)
+                    {
+                        if (c.Id != menu.CategoryId)
+                        {
+                            <option value="@c.Id">@c.Name</option>
+                        }
+                        else
+                        {
+                            <option value="@c.Id" selected>@c.Name</option>
+                        }
+                    }
+                }
+            </select>
+            <div>
+                <label>Menu Adı</label>
+                <input type="text" name="Name" id="text" value="@menu.Name">
+            </div>
+           <div>
+            <input type="hidden" name="menuId" id="hidden" value="@menu.Id">
+            <label>Fiyat</label>
+            <input type="text" name="Price" id="text" value="@menu.Price">
+            </div>
+            <button type="submit"> Güncelle </button>
+            </div>
+            </div>
+        </div>
+    </div>
+    </form>
+
+
+
+
+    <div>
+       
+    </div>
+    <div>
+        
+    </div>
+    <div>
+        
+    </div>
+    <div>
+        
+    </div>
+    <div>
+      
+    </div>
+    
+

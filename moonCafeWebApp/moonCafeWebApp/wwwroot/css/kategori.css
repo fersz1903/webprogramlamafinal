@@ -1,0 +1,27 @@
+.card-img-top {
+  width: 100%;
+  height: 40vh;
+  object-fit: cover;
+}
+@media (min-width: 768px) {
+  .card-img-top {
+    height: 40vh;
+  }
+}
+
+
+.card-body {
+  text-align: center;
+}
+.card-body a {
+  text-decoration: none;
+}
+
+.aaa {
+    color: #9BA4B5;
+    border: hidden;
+    background-color: white;
+    font-size: 30px;
+    font-weight: bold;
+    width: 100%;
+}

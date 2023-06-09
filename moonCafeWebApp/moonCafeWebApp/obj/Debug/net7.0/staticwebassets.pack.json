@@ -1,0 +1,561 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\moonCafeWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\moonCafeWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\css\\category.css",
+      "PackagePath": "staticwebassets\\css\\category.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\css\\categoryAdd.css",
+      "PackagePath": "staticwebassets\\css\\categoryAdd.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\css\\categoryEditPanel.css",
+      "PackagePath": "staticwebassets\\css\\categoryEditPanel.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\css\\homepage.css",
+      "PackagePath": "staticwebassets\\css\\homepage.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\css\\iletisim.css",
+      "PackagePath": "staticwebassets\\css\\iletisim.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\css\\istek-parca.css",
+      "PackagePath": "staticwebassets\\css\\istek-parca.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\css\\kategori.css",
+      "PackagePath": "staticwebassets\\css\\kategori.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\css\\menuEdit.css",
+      "PackagePath": "staticwebassets\\css\\menuEdit.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\css\\menuEditPanel.css",
+      "PackagePath": "staticwebassets\\css\\menuEditPanel.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\css\\ortak.css",
+      "PackagePath": "staticwebassets\\css\\ortak.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\css\\sıcakicecekler.css",
+      "PackagePath": "staticwebassets\\css\\sıcakicecekler.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\08059549-366ead-1650x1650.jpg",
+      "PackagePath": "staticwebassets\\images\\08059549-366ead-1650x1650.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\1_org_zoom.webp",
+      "PackagePath": "staticwebassets\\images\\1_org_zoom.webp"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\27472962.jpg",
+      "PackagePath": "staticwebassets\\images\\27472962.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\3 Peynirli.jpg",
+      "PackagePath": "staticwebassets\\images\\3 Peynirli.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\46054715-8a2faf-1650x1650.jpg",
+      "PackagePath": "staticwebassets\\images\\46054715-8a2faf-1650x1650.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\60153a404e3fe106cc2499ea.jpeg",
+      "PackagePath": "staticwebassets\\images\\60153a404e3fe106cc2499ea.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\986641-1091800574.jpeg",
+      "PackagePath": "staticwebassets\\images\\986641-1091800574.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Akdeniz Salata.jpg",
+      "PackagePath": "staticwebassets\\images\\Akdeniz Salata.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Baklava.jpg",
+      "PackagePath": "staticwebassets\\images\\Baklava.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Bizim Bahçeden.jpg",
+      "PackagePath": "staticwebassets\\images\\Bizim Bahçeden.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Cevizli Baklava.jpg",
+      "PackagePath": "staticwebassets\\images\\Cevizli Baklava.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Cheesburger.jpg",
+      "PackagePath": "staticwebassets\\images\\Cheesburger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Ekmek Kadayıfı.jpg",
+      "PackagePath": "staticwebassets\\images\\Ekmek Kadayıfı.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Fırın Sütlaç.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırın Sütlaç.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Hamburger1.jpg",
+      "PackagePath": "staticwebassets\\images\\Hamburger1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Havuç Dilimi.jpg",
+      "PackagePath": "staticwebassets\\images\\Havuç Dilimi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Izgara Tavuk Salata.jpg",
+      "PackagePath": "staticwebassets\\images\\Izgara Tavuk Salata.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Kadayıf Dolma.webp",
+      "PackagePath": "staticwebassets\\images\\Kadayıf Dolma.webp"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Karışık.jpg",
+      "PackagePath": "staticwebassets\\images\\Karışık.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Kazandibi.jpg",
+      "PackagePath": "staticwebassets\\images\\Kazandibi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Künefe.jpeg",
+      "PackagePath": "staticwebassets\\images\\Künefe.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Magnolia.jpg",
+      "PackagePath": "staticwebassets\\images\\Magnolia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Margarita.jpg",
+      "PackagePath": "staticwebassets\\images\\Margarita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Meksika.jpg",
+      "PackagePath": "staticwebassets\\images\\Meksika.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Midye baklava.jpg",
+      "PackagePath": "staticwebassets\\images\\Midye baklava.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Sezar Salata.jpg",
+      "PackagePath": "staticwebassets\\images\\Sezar Salata.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Tavuk göğsü.webp",
+      "PackagePath": "staticwebassets\\images\\Tavuk göğsü.webp"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Tavuklu Mantarlı.jpg",
+      "PackagePath": "staticwebassets\\images\\Tavuklu Mantarlı.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Ton Balıklı Salata.jpg",
+      "PackagePath": "staticwebassets\\images\\Ton Balıklı Salata.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\What-is-Turkish-Coffee-Thumbnail_455x455.webp",
+      "PackagePath": "staticwebassets\\images\\What-is-Turkish-Coffee-Thumbnail_455x455.webp"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\americano.webp",
+      "PackagePath": "staticwebassets\\images\\americano.webp"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\aromalı sıcak çikolata.jpg",
+      "PackagePath": "staticwebassets\\images\\aromalı sıcak çikolata.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\cafe-acmak-min.png",
+      "PackagePath": "staticwebassets\\images\\cafe-acmak-min.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\cheescake.webp",
+      "PackagePath": "staticwebassets\\images\\cheescake.webp"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\coca-cola-orijinal-tat_product_image_v3.png",
+      "PackagePath": "staticwebassets\\images\\coca-cola-orijinal-tat_product_image_v3.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\coca-cola330.jpg",
+      "PackagePath": "staticwebassets\\images\\coca-cola330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\ekler.webp",
+      "PackagePath": "staticwebassets\\images\\ekler.webp"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\espresso.webp",
+      "PackagePath": "staticwebassets\\images\\espresso.webp"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\fanta-330.jpg",
+      "PackagePath": "staticwebassets\\images\\fanta-330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\file.png",
+      "PackagePath": "staticwebassets\\images\\file.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\filtre kahve.jpg",
+      "PackagePath": "staticwebassets\\images\\filtre kahve.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\hamburger.jpg",
+      "PackagePath": "staticwebassets\\images\\hamburger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\içecek.jpg",
+      "PackagePath": "staticwebassets\\images\\içecek.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\karisik-pizza-yapimi-tarifi.webp",
+      "PackagePath": "staticwebassets\\images\\karisik-pizza-yapimi-tarifi.webp"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\kemalpaiai-BUiC_cover.webp",
+      "PackagePath": "staticwebassets\\images\\kemalpaiai-BUiC_cover.webp"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\kemalpaşa.jpg",
+      "PackagePath": "staticwebassets\\images\\kemalpaşa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\macchiato.jpg",
+      "PackagePath": "staticwebassets\\images\\macchiato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\mevsim-salatasi-tarifi.jpg",
+      "PackagePath": "staticwebassets\\images\\mevsim-salatasi-tarifi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\milkshake.webp",
+      "PackagePath": "staticwebassets\\images\\milkshake.webp"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\oralet.jpg",
+      "PackagePath": "staticwebassets\\images\\oralet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\profiterol.webp",
+      "PackagePath": "staticwebassets\\images\\profiterol.webp"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\soğukİçecek.jpg",
+      "PackagePath": "staticwebassets\\images\\soğukİçecek.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\sprite.webp",
+      "PackagePath": "staticwebassets\\images\\sprite.webp"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\tatlılar.jpg",
+      "PackagePath": "staticwebassets\\images\\tatlılar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\tost.jpg",
+      "PackagePath": "staticwebassets\\images\\tost.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\white chocolate mocha.jpg",
+      "PackagePath": "staticwebassets\\images\\white chocolate mocha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\çilekli milkshake.webp",
+      "PackagePath": "staticwebassets\\images\\çilekli milkshake.webp"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\çilekli milkshake1.webp",
+      "PackagePath": "staticwebassets\\images\\çilekli milkshake1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\Şekerpare.jpg",
+      "PackagePath": "staticwebassets\\images\\Şekerpare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\images\\המבורגר_טבעוני.jpg",
+      "PackagePath": "staticwebassets\\images\\המבורגר_טבעוני.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\js\\javascript.js",
+      "PackagePath": "staticwebassets\\js\\javascript.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\source\\repos\\moonCafeWebApp\\moonCafeWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.moonCafeWebApp.props",
+      "PackagePath": "build\\moonCafeWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.moonCafeWebApp.props",
+      "PackagePath": "buildMultiTargeting\\moonCafeWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.moonCafeWebApp.props",
+      "PackagePath": "buildTransitive\\moonCafeWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.moonCafeWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

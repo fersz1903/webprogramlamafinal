@@ -1,0 +1,42 @@
+.order{
+    height:80vh;
+    margin-top:0px;
+}
+.table{
+    margin-bottom: 10vh !important;
+}
+h2 {
+    color: #212A3E;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgba(27, 9, 128, 0.801);
+}
+input{
+    height:38px;
+    border-radius:3px;
+}
+.gonder{
+
+   text-align: right;
+}
+.istekParca{
+    width: auto;
+    height: 38px;
+ 
+}
+label{
+    font-style: italic;
+    font-weight: bold;
+}
+.buton {
+    background-color: #9BA4B5 ;
+    border:2px solid #212A3E ;
+    height:38px;
+    border-radius:5px;
+    width:auto;
+}
+.buton:hover{
+    background-color:#212A3E;
+    border:2px solid #9BA4B5;
+    transition:0.5s;    
+    color:white;
+}

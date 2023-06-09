@@ -1,0 +1,141 @@
+﻿/*menu add panel*/
+select {
+   border:1px solid black;
+    
+}
+option{
+    background-color:white;
+}
+
+h2 {
+    position: absolute;
+    top:10%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding:50px;
+    border:6px solid black;
+}
+
+.kapsam label{
+    width:200px;
+    margin: 10px 30px 10px 0;
+    
+}
+
+.kapsam button{
+    width:100px;
+    border-radius:5px;
+    position:absolute;
+    margin-left:auto;;
+    background-color:#0d6edf;
+}
+.kapsam button:hover{
+    color:white;
+    transition:0.5s;
+}
+body{
+    height:100vh;
+}
+.form button{
+    width:100px;
+    border-radius:5px;
+}
+
+/* login*/
+.login {
+    height:80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.overflow {
+    overflow-y: hidden;
+}
+
+.form {
+    box-sizing: border-box;
+    height: auto;
+    padding: 2rem;
+    width: 32rem;
+    margin-top:200px;
+    background-color: #212A3E;
+    border-radius:10px;
+}
+
+
+
+.input-container {
+    height: 50px;
+    position: relative;
+    width: 100%;
+    margin-bottom:10px;
+}
+
+
+    .ic1 {
+       margin-top: 40px;
+    }
+    .ic1 label{
+        margin-bottom:10px;
+    }
+
+    .ic2 {
+    margin-top: 30px;
+    }
+    .ic2 label{
+        margin-top:30px;
+    }
+
+.input {
+    background-color: #333;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    color: #9BA4B5;
+    font-size: 18px;
+    height: 100%;
+    outline: 0;
+    padding: 4px 20px 0;
+    width: 100%;
+}
+
+.submit {
+    background-color: #9BA4B5;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    color: #eee;
+    cursor: pointer;
+    font-size: 18px;
+    height: 50px;
+    margin-top: 80px;
+    outline: 0;
+    text-align: center;
+    width: 100%;
+}
+
+    .submit:active {
+        background-color: #06b;
+    }
+
+.form .ic1 label {
+    top: 0;
+}
+
+.submit:active {
+    background-color: #f0ad4e;
+}
+
+.submit:hover {
+    color: #333;
+    transition: color 0.3s linear;
+}
