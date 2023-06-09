@@ -1,5 +1,8 @@
 Furkan Ersöz
 201816017
+
+!! NOT: Uygulama "~\webprogramlamafinal-main\moonCafeWebApp\moonCafeWebApp\moonCafeWebApp.sln"(en içerdeki solution) 'dan başlatılmalıdır. Yoksa build error hatası verir. 
+
 ## Web Programlama Final Projesi
 
 Uygulama bir kafenin menülerini gösteren, kullanıcının siparişlerini ve istek şarkılarını iletebildiği, kullanıcının kafenin iletişim bilgilerini ve konumunu görebildiği bir web uygulamasıdır. Bu uygulama ayrıca admin paneli içermektedir. Admin paneli ile kafe sahibi menü ve kategori ekleme,silme veya düzenleme işlemlerini kolaylıkla yapabilmektedir. Ayrıca verilen siparişleri ve istek şarkı önerilerini admin panelde görüntüleyebilmektedir. 
